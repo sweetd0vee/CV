@@ -8,6 +8,9 @@ Passionate about my work, but also enjoy various activities - languages, dancing
 Good with remote/home-office job.
 
 Kaggle: https://www.kaggle.com/sweetd0ve
+
 Github: https://github.com/sweetd0vee
+
 Linkedin: https://www.linkedin.com/in/sweetd0ve/
+
 TG/IG: t.me/sweetd0ve

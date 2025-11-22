@@ -4,12 +4,12 @@ Proficient in the Python ecosystem, including FastAPI, Django, and Flask, with a
 Fluent in Russian (Native) and English (B2).
 Passionate about solving complex problems and continuous learning, both in technology and through personal interests like languages, tennis, and travel.
 
-🌐 Profiles:
+**🌐 Profiles:**
 
-GitHub: https://github.com/sweetd0vee
+**GitHub:** https://github.com/sweetd0vee
 
-Kaggle: https://www.kaggle.com/sweetd0ve
+**Kaggle:** https://www.kaggle.com/sweetd0ve
 
-LeetCode: https://leetcode.com/u/sweetd0ve
+**LeetCode:** https://leetcode.com/u/sweetd0ve
 
-LinkedIn: https://www.linkedin.com/in/sweetd0ve/
+**LinkedIn:** https://www.linkedin.com/in/sweetd0ve/

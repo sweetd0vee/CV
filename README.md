@@ -1,18 +1,15 @@
 # CV
-I'm software engineer with 1,5 years of experience.
-Graduate Computer Science student from HSE, also passionate in data science.
-Have a strong knowledge of Python, worked with many frameworks like FastaAPI, Django, Flask, Pytorch, Keras and etc. I understand the importance of writing readable, testable and clean code as well as meeting deadlines.
-Speak Russian (native), English (B2)
-Passionate about my work, but also enjoy various activities - languages, dancing, tennis, travelling 🚀
+I'm software engineer with 1,5 years of experience in building robust backend systems. Graduated Computer Science student from Higher School of Economics (Moscow, Russia).
+Proficient in the Python ecosystem, including FastAPI, Django, and Flask, with additional expertise in Data Science frameworks like PyTorch and Keras. I understand the importance of writing readable, testable and clean code while consistently meeting project deadlines.
+Fluent in Russian (Native) and English (B2).
+Passionate about solving complex problems and continuous learning, both in technology and through personal interests like languages, tennis, and travel.
 
-Good with remote/home-office job.
+You can review my work and profiles below:
+
+GitHub: https://github.com/sweetd0vee
 
 Kaggle: https://www.kaggle.com/sweetd0ve
 
-Github: https://github.com/sweetd0vee
+LeetCode: https://leetcode.com/u/sweetd0ve
 
-Linkedin: https://www.linkedin.com/in/sweetd0ve/
-
-Leetcode: https://leetcode.com/u/sweetd0ve/
-
-TG/IG: t.me/sweetd0ve
+LinkedIn: https://www.linkedin.com/in/sweetd0ve/

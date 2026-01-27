@@ -17,8 +17,15 @@ Backend Software Engineer with **3+ years of commercial experience** building **
   - **FastAPI** (async endpoints, dependency injection, background tasks)
   - **Django** (ORM, admin, app architecture, middleware)
   - **Flask** (lightweight services, extensions, blueprints)
+  - **Streamlit** (data apps, rapid prototyping, internal tooling)
+- **Databases & ORM**
+  - **PostgreSQL** (schema design, indexing basics, query performance tuning mindset)
+  - **SQLAlchemy** (ORM/data-mapper patterns, migrations-minded workflows)
 - **Data & Machine Learning**
+  - **Machine Learning**: feature engineering basics, evaluation metrics, reproducible experiments
   - **PyTorch**, **TensorFlow**: training/inference workflows, dataset pipelines, model evaluation
+  - **NLP**: classical + transformer-based pipelines (tokenization, inference, evaluation mindset)
+  - **Prophet**: time-series forecasting, backtesting-minded evaluation
   - Experiment tracking basics, reproducible runs, model packaging for inference
 - **Code Quality & Testing**
   - Clean code, modular design, refactoring, SOLID principles
@@ -27,6 +34,8 @@ Backend Software Engineer with **3+ years of commercial experience** building **
 - **Reliability & Performance**
   - Latency/throughput optimization, profiling, DB query optimization
   - Production incident triage, root-cause analysis, stability improvements
+- **DevOps / Tooling**
+  - **Docker** (containerization, local reproducible environments)
 
 ### Education
 **HSE University (Moscow, Russia)** — **BSc in Computer Science**

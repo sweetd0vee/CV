@@ -2,12 +2,12 @@
 
 **Software Engineer | Python Backend & Data Science**
 
-**Minsk, Belarus | +375447676187 | arinaogo@gmail.com | @sweetd0ve(tg)**
+**Minsk, Belarus | +375447676187 | arinaogo@gmail.com | @sweetd0ve (tg)**
 
-I'm software engineer with 1,5 years of experience in building robust backend systems. Graduated Computer Science student from Higher School of Economics (Moscow, Russia).
-Proficient in the Python ecosystem, including FastAPI, Django, and Flask, with additional expertise in Data Science frameworks like PyTorch and Keras. I understand the importance of writing readable, testable and clean code while consistently meeting project deadlines.
+I'm software engineer with 3 years of commercial experience in building robust backend systems. Graduated Computer Science student from Higher School of Economics (Moscow, Russia).
+Proficient in the Python ecosystem, including FastAPI, Django, and Flask, with additional expertise in Data Science frameworks like PyTorch and Tensorflow. I understand the importance of writing readable, testable and clean code while consistently meeting project deadlines.
 Fluent in Russian (Native) and English (B2).
-Passionate about solving complex problems and continuous learning, both in technology and through personal interests like languages, tennis, and travel.
+Passionate about solving complex problems and continuous learning, both in technology and through personal interests like languages.
 
 **🌐 Profiles:**
 
